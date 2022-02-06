@@ -16,4 +16,4 @@ Mods :
     - IronChest
     - Vanilla Hammer
     - Just enough item
-    - Shematica
+    - Custom NPC
