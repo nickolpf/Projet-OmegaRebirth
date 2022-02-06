@@ -1,9 +1,9 @@
 # Projet-OmegaRebirth
 
-*test*
+
 But du projet : Recréer et upgrade le serveur OmegaCraft en y ajoutant des mods.
 
-VERSION : 1.16.5
+VERSION : *1.16.5*
 
 Héberger sur OmgServ, OmegaCraft est un serveur a but économique.
 Mods : 
