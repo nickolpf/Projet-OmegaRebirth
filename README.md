@@ -2,6 +2,9 @@
 
 --------------------
 
+> _Pour installer se modpack, il suffit de télécharger le ___.zip___ dans le petit onglet "code"._
+
+
 ### Présentation globale :
 
 Bienvenue sur __Omega-Rebirth__ ! 
