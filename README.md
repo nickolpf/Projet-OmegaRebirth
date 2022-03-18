@@ -28,14 +28,16 @@ En bref, vous pouvez devenir le plus __puissant__, avoir les meilleures __constr
 
 #### Les commandes pratiques :
 * /spawn
-* /warp [shop \ survie \ help \ minage]
-* /sethome ( jusqu'à __5 homes__ vous sont disponnible directement !)
+* /warp [shop \ survie \ minage]
+* /sethome  ( jusqu'à __5 homes__ vous sont disponnible directement !)
 * /home
-* /shop ( C'est l'interface qui vous permet d'acheter/vendre tout les objets \ blocks que vous aurez besoin ! )
-* /sellall ( pour vendre __TOUT__ se qui peut être vendu dans votre inventaire )
-* /sellgui ( pour afficher un inventaire où vous pouvez vendre n'importe quel item que vous glissez dedans )
-* /pay [joueur] [montant] ( Pour donner de l'argent à un autre joueur )
+* /shop   ( C'est l'interface qui vous permet d'acheter/vendre tout les objets \ blocks que vous aurez besoin ! )
+* /sellall  ( pour vendre __TOUT__ se qui peut être vendu dans votre inventaire )
+* /sellgui  ( pour afficher un inventaire où vous pouvez vendre n'importe quel item que vous glissez dedans )
+* /pay [joueur] [montant]   ( Pour donner de l'argent à un autre joueur )
 * /tpa [joueur]
+* /chunk claim  ( Vous permet de sécurisé un chunk entier au prix de 100$ ! )
+* /help   ( Pour des aides plus précise sur les commandes )
 
 --------------------
 
